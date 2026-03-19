@@ -55,7 +55,7 @@ CIN | Proteobacteria, *Yersinia spp.*, *Aeromonas spp.*
 - [ ] Inspect the new plates to ensure that the colonies are homogenous in morphology.
 - [ ] Using a pipette tip, pick a single colony from new plates and four quadrant streak onto a new plate (of the same type) to further purify and ensure that we will have a single isolate in the future.
 - [ ] Incubate new plate at 37˚C for 24-72h depending on speed of growth of organism.
-- [ ] Be sure to take plates out of the incubator once grown, they can be stored in the chamber for as long as needed.
+- [ ] Be sure to take plates out of the incubator once grown, they can be stored in the chamber for no longer than 2 weeks or can be subcultured onto a new plate.
 - [ ] Aliquot 3 mL of mGAM into 1 falcon tube per isolate (plus 1 more for a sterile control) and move to anaerobic chamber.
 
 ## Day 11
@@ -63,7 +63,7 @@ CIN | Proteobacteria, *Yersinia spp.*, *Aeromonas spp.*
 - [ ] Use a pipette tip to dip in the sterile control.
 - [ ] Note the colony morphology and approximate growth rate of the culture in your lab notebook.
 - [ ] Incubate for 2-3 days.
-- [ ] Be sure to take liquid cultures out of the incubator once grown, they can be stored in the chamber for as long as needed.
+- [ ] Be sure to take liquid cultures out of the incubator once grown, they can be stored in the chamber for no longer than 1-2 weeks or can be subcultured.
 
 ## Day 13-Day 14
 - [ ] Transfer 200 µL of liquid culture to a 1.5mL microcentrifuge tube to proceed to sanger [16S rRNA sequencing](https://github.com/BisanzLab/LabProtocols/blob/main/Isolate_16S.md). *Note: this can be frozen at -80˚C and processed later*.
